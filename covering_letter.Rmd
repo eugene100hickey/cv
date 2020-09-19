@@ -1,0 +1,36 @@
+---
+author: Eugene Hickey
+return-address: 
+  - Eugene Hickey   
+  - 5, Belmont Villas   
+  - Donnybrook
+  - D04 A2C1  
+Email: eugene.hickey@tudublin.ie   
+Homepage: https://bioscience.netlify.app
+address:
+  - Prof Walter Kolch
+  - Director SBI
+subject: Artificial Intelligence & Machine Learning for Biomedicine
+  
+
+opening: Dear Professor,
+signature: Eugene Hickey
+
+output: komaletter::komaletter
+---
+
+With my diverse and relevant range of skills and experience, I believe I am uniquely placed to fill the role of Lecturer / Assistant Professor in Artificial Intelligence & Machine Learning for Biomedicine. I have a track record of using machine learning as a nexus within multidisciplanary research groups. I have a history of attracting research funding from a variety of sources. I have taught at all levels from undergraduate to industry led courses and specialise in employing novel learning platforms.
+
+My most recent work has been developing research programmes unifying multiomics datasets in medical research. This has involved reaching out to researchers from different scientific areas in the new Technological University Dublin. I have progressed the creation of new bioconductor packages and I am active in the R science community. SBI would give me the ideal opportunity to further enhance my research work, to reach out to new research partners, and to foster data analysis education within biomedicine. 
+
+I look forward to hearing from you.
+
+
+
+
+
+
+Yours sincerely,
+
+
+![](/home/eugene/Desktop/Academic/Hector/CV_in_R/signature.png){width=350px}
